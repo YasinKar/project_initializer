@@ -1,0 +1,12 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+django-filter
+django-axes
+django-debug-toolbar
+celery
+redis
+pika
+python-dotenv
+psycopg2
